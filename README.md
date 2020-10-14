@@ -54,8 +54,7 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 <br>
 <br>
 <br>
-🔭 You have finally discovered my Github profile!!
-<br>Thanks for stopping by!
+<br>Thanks for visiting my Github profile !!!
 <br>
 <br>
 
@@ -75,4 +74,4 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
   <img align="left" alt="Harshita's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Harshita248&repo=Harshita248&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=barthwalumang&repo=barthwalumang&countColorcountColor&countColor=%237B1E7B"/>
