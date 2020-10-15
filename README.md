@@ -17,6 +17,14 @@
 
 <br><br>
 
+<p align="center">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Statistics</b></i><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=barthwalumang&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true&custom_title=GitHub Stats" alt="GitHub Status"/>
+<br />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=barthwalumang&show_icons=true&layout=compact&theme=highcontrast&langs_count=8" alt="Most Used Languages">
+</p>
+
+
 <hr>
 
 _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -37,20 +45,6 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 
 <hr>
 
-<p align="center">
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Statistics</b></i><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=barthwalumang&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true&custom_title=GitHub Stats" alt="GitHub Status"/>
-<br />
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=barthwalumang&show_icons=true&layout=compact&theme=highcontrast&langs_count=8" alt="Most Used Languages">
-</p>
-<!--
-<hr>
-<details align="center">
-
-<br />
-<br />
-</details>
--->
 
 <br>
 <br>
