@@ -3,7 +3,7 @@
 <br>
 <p align="center">
   <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="80px"><br>
-  <h1>I'm Umang Barthwal</h1>
+  <h1 align="center">I'm Umang Barthwal</h1>
 </p>
 
 <p align="center">
