@@ -1,5 +1,5 @@
 
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> !  <img alt="GIF" height="40px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> !
 <br>
 <p align="center">
   <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="80px"><br>
@@ -50,6 +50,7 @@ _Languages and Tools:_ 🛠
 <br>
 <br>
 <br>
+<img alt="GIF" height="40px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <br>
 <br>
 
