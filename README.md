@@ -1,12 +1,14 @@
 
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! 
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> !  <img alt="GIF" height="40px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <br>
-<h1 align="center">I'm Umang Barthwal  <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="80px">
-</h1>
+<p align="center">
+  <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="80px"><br>
+  <h1>I'm Umang Barthwal</h1>
+</p>
 
 <p align="center">
   <em>
-    Undergraduate Student pursuing Bachelor in Engineering Computer Science & Master of Science Physics from <b>BITS Pilani</b></a>. <br>
+    Undergraduate Student pursuing Bachelor in Engineering Computer Science & Master of Science Physics from <b>BITS Pilani</b></a>.
     An aspiring <b>Developer</b>, <b>Competitive Programmer</b>, <b>Open-Source Contributor</b> and <b>Social Entrepreneur.</b>
   </em>
 </p>
@@ -26,7 +28,7 @@
 
 
 
-_Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+_Languages and Tools:_ 🛠 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
