@@ -1,8 +1,8 @@
-
+<p align="center"><img alt="GIF" height="40px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
 <h1 align="center"><𝚌𝚘𝚍𝚎𝚛𝚜/>
 <br>
 <p align="center">
-  <img alt="GIF" height="40px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /><br>
+<br>
   <h1 align="center">I'm Umang Barthwal</h1>
 </p>
 
@@ -28,7 +28,7 @@
 
 
 
-_Languages and Tools:_ 🛠 
+### _Languages and Tools:_ 🛠 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -45,9 +45,6 @@ _Languages and Tools:_ 🛠
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
 
-
-<br>
-<br>
 <br>
 <br>
 <br>
