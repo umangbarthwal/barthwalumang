@@ -1,8 +1,6 @@
 <p align="center"><img alt="GIF" height="40px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
 <h1 align="center"><𝚌𝚘𝚍𝚎𝚛𝚜/>
-<br>
 <p align="center">
-<br>
   <h1 align="center">I'm Umang Barthwal</h1>
 </p>
 
@@ -17,7 +15,8 @@
 <img width=300px alt="Github Cat" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" />
 </p>
 
-<br><br>
+<br>
+<br>
 
 <p align="center">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Statistics</b></i><br><br>
@@ -26,9 +25,11 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=barthwalumang&show_icons=true&layout=compact&theme=highcontrast&langs_count=8" alt="Most Used Languages">
 </p>
 
+<br>
+<br>
 
 
-### _Languages and Tools:_ 🛠 
+# _Languages and Tools:_ 🛠 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -45,8 +46,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
 
-<br>
-<br>
 <br>
 <br>
 
