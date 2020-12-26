@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-    Undergraduate Student pursuing Bachelor in Engineering Computer Science & Master of Science Physics from <b>BITS Pilani</b></a>.
+    Undergraduate Student pursuing Bachelor of Engineering Computer Science & Master of Science Physics from <b>BITS Pilani</b></a>.
     An aspiring <b>Developer</b>, <b>Competitive Programmer</b>, <b>Open-Source Contributor</b> and <b>Social Entrepreneur.</b>
   </em>
 </p>
